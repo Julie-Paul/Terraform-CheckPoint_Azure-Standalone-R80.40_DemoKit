@@ -9,6 +9,6 @@ The Attacker will get a dynamnic ip
 
 Update the ubuntu_web_customdata.sh file with your Infinity Next token
 
-The default passwd in this setup is Cpwins1!.  The user name is always admin for the Standalone gateway
+The default passwd in this setup is Cpwins1!!  The user name is always admin for the Standalone gateway
 
 The default user/passwd on the web instance chkpuser/Cpwins1!
